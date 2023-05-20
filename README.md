@@ -10,11 +10,11 @@ Graph Theory Algorithms,
 5. Kruskal's Algorithm
 6. Floyd Warshall Algorithm
 
-#Any IDE is fine for exicution.
+# Any IDE is fine for exicution.
 
 Recommended:
 
-#Offline: VStudio or CodeBlocks
+# Offline: VStudio or CodeBlocks
 
-#Online: https://www.onlinegdb.com/online_c_compiler#
+# Online: https://www.onlinegdb.com/online_c_compiler#
  
