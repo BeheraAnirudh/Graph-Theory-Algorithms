@@ -14,7 +14,7 @@ Graph Theory Algorithms,
 
 Recommended:
 
-#Offline: CodeBlocks
+#Offline: Vstudio or CodeBlocks
 
 #Online: https://www.onlinegdb.com/online_c_compiler#
  
