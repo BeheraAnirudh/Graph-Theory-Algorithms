@@ -3,12 +3,12 @@ This Library contains Six Graph Theory Algorithms in Programming-C using appropr
 
 Graph Theory Algorithms,
 
-1. Bellman Ford
+1. Bellman Ford Algorithm
 2. Breadth First Search
 3. Depth First Search
 4. Dijkstra's Algorithm
 5. Kruskal's Algorithm
-6. Bellman Ford's Algorithm
+6. Floyd Warshall Algorithm
 
 #Any IDE is fine for exicution.
 
