@@ -10,7 +10,7 @@ Graph Theory Algorithms,
 5. Kruskal's Algorithm
 6. Floyd Warshall Algorithm
 
-# Any IDE is fine for exicution.
+# Any IDE is fine for execution.
 
 Recommended:
 
